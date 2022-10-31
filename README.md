@@ -11,4 +11,7 @@
   - [Philipp Lackner](https://www.youtube.com/c/PhilippLackner) Cheio de tutoriais hands on! Dentre muitas outras novidades no mundo android.
   - [Christopher Okhravi](https://www.youtube.com/c/ChristopherOkhravi) Design patterns são essencias para todo o desenvolvedor mobile, este canal tem uma lista de conteudos incríveis para ficar craque no assunto!
 ## Se mantenha atualizado
-## Como contribuir
+## Como contribuir 🧐
+1. Faça o fork deste repositório
+2. Adicione dicas que possam ajudar desenvolvedores em processos seletivos
+3. Crie uma pull request com suas alterações
